@@ -1,0 +1,1 @@
+invalid selector: WebDriverError: Could not parse selector expression `new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView(new UiSelector().resourceId("com.saucelabs.mydemoapp.android:id/productIV").instance(2)`: Unclosed paren in expression when running "element" with method "POST"
