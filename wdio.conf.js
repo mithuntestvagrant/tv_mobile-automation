@@ -27,13 +27,24 @@ exports.config = {
                 // "appium:appActivity": "com.android.settings.Settings"
 
                 // api demo app
-                    "platformName": "Android",
-                    "appium:automationName": "UiAutomator2",
-                    "appium:deviceName": "Pixel 4",
-                    "appium:appPackage": "io.appium.android.apis",
-                    "appium:appActivity": "io.appium.android.apis.ApiDemos",
-                    "appium:noReset": true
+
+                    // "platformName": "Android",
+                    // "appium:automationName": "UiAutomator2",
+                    // "appium:deviceName": "Pixel 4",
+                    // "appium:appPackage": "io.appium.android.apis",
+                    // "appium:appActivity": "io.appium.android.apis.ApiDemos",
+                    // "appium:noReset": true
                   
+                    // amazon app
+
+                    
+                        "platformName": "Android",
+                        "appium:automationName": "UiAutomator2",
+                        "appium:deviceName": "Pixel 4",
+                        "appium:appPackage": "in.amazon.mShop.android.shopping",
+                        "appium:appActivity": "com.amazon.mShop.home.HomeActivity",
+                        "appium:noReset": true
+                      
               
           
     }],

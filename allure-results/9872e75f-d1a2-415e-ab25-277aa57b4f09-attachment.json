@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.FrameLayout[@content-desc=\"Cart 1 item Tab 3 of 4\"]/android.widget.FrameLayout/android.widget.ImageView[@resource-id=\"in.amazon.mShop.android.shopping:id/bottom_tab_button_icon\"]"
+}

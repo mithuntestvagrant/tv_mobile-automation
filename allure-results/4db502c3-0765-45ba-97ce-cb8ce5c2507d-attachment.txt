@@ -1,0 +1,1 @@
+stale element reference: WebDriverError: The element 'By.xpath: //android.widget.TextView[@resource-id="in.amazon.mShop.android.shopping:id/chrome_search_hint_view"]' does not exist in DOM anymore when running "element/00000000-0000-0049-ffff-ffff000000c7/clear" with method "POST"
