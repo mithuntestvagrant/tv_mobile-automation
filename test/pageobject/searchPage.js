@@ -12,7 +12,7 @@ class search{
     async searchDetails(searchTerm){
         await this.searchButton.click();
         await this.searchInput.setValue(searchTerm);
-        await driver.pressKeyCode(66);
+        await driver.pressKeyCode(66); // Press the Enter key on the Android keyboard.
     }
 }
 

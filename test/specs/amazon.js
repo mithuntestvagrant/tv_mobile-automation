@@ -24,6 +24,10 @@ describe('Amazon Search', () => {
 
           await $('//android.view.View[@resource-id="sc-buy-box-ptc-button"]').click()
 
+        //   await $('//android.widget.TextView[@text="Enter mobile number or email"]').setValue('8340693404')
+
+        //   await $('//android.widget.Button[@text="Continue"]').click();
+
 
         
     });

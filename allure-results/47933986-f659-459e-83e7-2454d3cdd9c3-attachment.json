@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.EditText[@resource-id=\"in.amazon.mShop.android.shopping:id/rs_search_src_text\"]"
+}

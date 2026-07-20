@@ -12,12 +12,12 @@ exports.config = {
     capabilities: [{
         
         //sauce labs app
-            // "platformName": "Android",
-            // "appium:automationName": "UiAutomator2",
-            // "appium:deviceName": "Pixel 4",
-            // "appium:appPackage": "com.saucelabs.mydemoapp.android",
-            // "appium:appActivity": "com.saucelabs.mydemoapp.android.view.activities.MainActivity",
-            // "appium:noReset": true
+            "platformName": "Android",
+            "appium:automationName": "UiAutomator2",
+            "appium:deviceName": "Pixel 4",
+            "appium:appPackage": "com.saucelabs.mydemoapp.android",
+            "appium:appActivity": "com.saucelabs.mydemoapp.android.view.activities.MainActivity",
+            "appium:noReset": true
 
             // settings app
                 // "platformName": "Android",
@@ -38,12 +38,12 @@ exports.config = {
                     // amazon app
 
                     
-                        "platformName": "Android",
-                        "appium:automationName": "UiAutomator2",
-                        "appium:deviceName": "Pixel 4",
-                        "appium:appPackage": "in.amazon.mShop.android.shopping",
-                        "appium:appActivity": "com.amazon.mShop.home.HomeActivity",
-                        "appium:noReset": true
+                        // "platformName": "Android",
+                        // "appium:automationName": "UiAutomator2",
+                        // "appium:deviceName": "Pixel 4",
+                        // "appium:appPackage": "in.amazon.mShop.android.shopping",
+                        // "appium:appActivity": "com.amazon.mShop.home.HomeActivity",
+                        // "appium:noReset": true
                       
               
           

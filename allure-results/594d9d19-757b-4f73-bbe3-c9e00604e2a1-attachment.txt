@@ -1,0 +1,1 @@
+stale element reference: WebDriverError: The element 'By.xpath: //android.view.View[@resource-id="sc-buy-box-ptc-button"]' is not linked to the same object in DOM anymore when running "element/00000000-0000-014a-0001-70f000000319/click" with method "POST"

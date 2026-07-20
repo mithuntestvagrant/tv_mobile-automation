@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//androidx.recyclerview.widget.RecyclerView[@resource-id=\"com.android.settings:id/recycler_view\"]/android.widget.LinearLayout[5]/android.widget.RelativeLayout[@resource-id=\"com.android.settings:id/text_frame\"]"
+}
